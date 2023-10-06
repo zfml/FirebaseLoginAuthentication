@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462718543121",
+    "project_id": "fir-loginauthentication-5253d",
+    "storage_bucket": "fir-loginauthentication-5253d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462718543121:android:c7641cfcc07a52e422d8b0",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqs4YolzDcOcwrteATUkY31WZwWmCzzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
